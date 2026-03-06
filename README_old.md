@@ -186,7 +186,7 @@ Interested in discussing:
 - Playing multiple technical roles
 - Oracle Cloud architecture
 
-Connect via [LinkedIn](https://www.linkedin.com/in/felipe-costa) for technical discussions.
+Connect via [LinkedIn](https://www.linkedin.com/in/felipecdcosta) for technical discussions.
 
 ---
 

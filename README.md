@@ -294,7 +294,7 @@ Interested in discussing:
 - Oracle APEX + Power BI integration strategies
 - Medallion architecture implementation
 
-Connect via [LinkedIn](https://www.linkedin.com/in/felipe-costa) for technical discussions.
+Connect via [LinkedIn](https://www.linkedin.com/in/felipecdcosta) for technical discussions.
 
 ---
 
